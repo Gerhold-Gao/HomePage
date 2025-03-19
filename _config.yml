@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "高嘉豪 / Gerhold Gao"
 title_separator          : "-"
 name                     : &name "高嘉豪"
-description              : &description "personal description"
+description              : &description "A third-year undergraduate student majoring in Applied Physics at University of Science and Technology of China."
 url: "https://gerhold-gao.github.io"  # 你的 GitHub Pages 网址
 baseurl: "/HomePage"  # 你的 GitHub 项目路径
 repository               : "gerhold-gao/HomePage"
